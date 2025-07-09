@@ -1,2 +1,2 @@
 # git learn 
-# developer a adding info
+# developer A is  adding info
